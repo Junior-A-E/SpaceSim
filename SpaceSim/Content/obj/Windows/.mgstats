@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Gerke/source/repos/SpaceSim/Content/Controls.png","C:/Users/Gerke/source/repos/SpaceSim/Content/bin/Windows/Controls.xnb","TextureProcessor","Texture2DContent",30601,195685,1,5042711
+"C:/Users/Gerke/source/repos/SpaceSim/Content/Reticle.png","C:/Users/Gerke/source/repos/SpaceSim/Content/bin/Windows/Reticle.xnb","TextureProcessor","Texture2DContent",6414,65621,0,0111596
+"C:/Users/Gerke/source/repos/SpaceSim/Content/Skybox.jpg","C:/Users/Gerke/source/repos/SpaceSim/Content/bin/Windows/Skybox.xnb","TextureProcessor","Texture2DContent",709852,50331733,2,854385
+"C:/Users/Gerke/source/repos/SpaceSim/Content/SkyboxModel.fbx","C:/Users/Gerke/source/repos/SpaceSim/Content/bin/Windows/SkyboxModel.xnb","ModelProcessor","ModelContent",11692,1497,0,6009966
+"C:/Users/Gerke/source/repos/SpaceSim/Content/Spaceship_Material_Diffuse.png","C:/Users/Gerke/source/repos/SpaceSim/Content/bin/Windows/Spaceship_Material_Diffuse.xnb","TextureProcessor","Texture2DContent",247849,16777301,0,9230686
+"C:/Users/Gerke/source/repos/SpaceSim/Content/Spaceship.fbx","C:/Users/Gerke/source/repos/SpaceSim/Content/bin/Windows/Spaceship.xnb","ModelProcessor","ModelContent",393068,364475,0,1159511

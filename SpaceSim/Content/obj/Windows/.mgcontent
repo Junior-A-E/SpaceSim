@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Gerke/source/repos/SpaceSim/Content/Controls.png</File>
+    <File>C:/Users/Gerke/source/repos/SpaceSim/Content/Reticle.png</File>
+    <File>C:/Users/Gerke/source/repos/SpaceSim/Content/Skybox.jpg</File>
+    <File>C:/Users/Gerke/source/repos/SpaceSim/Content/SkyboxModel.fbx</File>
+    <File>C:/Users/Gerke/source/repos/SpaceSim/Content/Spaceship_Material_Diffuse.png</File>
+    <File>C:/Users/Gerke/source/repos/SpaceSim/Content/Spaceship.fbx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
